@@ -10,7 +10,7 @@ and I cover mostly technical bits, not so much the "philosophical bit"
 #### [What’s new in android?](https://www.youtube.com/watch?v=1N9KveJ-FU8&index=1&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp)
 Just the basic summary of everything new in android
 
-#### [What’s new in firebase?](https://www.youtube.com/watch?v=m7a26ymUu2U&list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy&index=4)
+#### [What’s new in firebase?](https://www.youtube.com/watch?v=m7a26ymUu2U&list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy)
 - New view for firebase analytics TODO
 
 #### [New Release & Device Targeting Tools](https://www.youtube.com/watch?v=peCWuCSIv7U)
@@ -18,7 +18,7 @@ Just the basic summary of everything new in android
 - Google can handle signing and manage your keys for you now
 - TODO
 
-#### [Architecture Components - Introduction](https://www.youtube.com/watch?v=FrteWKKVyzI&list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy&index=9)
+#### [Architecture Components - Introduction](https://www.youtube.com/watch?v=FrteWKKVyzI&list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy)
 Opening session for other three Architecture sessions. Basic overview of new first party components and reasoning behind them.
 - `Lifecycle` components can now be notified from `LifecycleOwner` and perform their lifecycle sensitive actions
 - `LiveData<T>` lifecycle aware observable
@@ -26,7 +26,7 @@ Opening session for other three Architecture sessions. Basic overview of new fir
 - `Room` sqlite library
 
 
-#### [Architecture Components - Solving the Lifecycle Problem]()
+#### [Architecture Components - Solving the Lifecycle Problem](https://www.youtube.com/watch?v=bEKNi1JOrNs)
 - `Lifecycle` as first class citizen, answers the question what is the current state to it's observers
 - `LifecycleObserver` component that can observe `Lifecycle` states using annotations
 - `LifecycleOwner` interface that can return `Lifecycle`,
@@ -55,7 +55,7 @@ set data on it from the outside
  for all fragments and you get it by `ViewModelProviders.of(getActivity())` so
  you receive activity's `ViewModel` not fragment's.
 
-#### [Architecture Components - Persistence and Offline]()
+#### [Architecture Components - Persistence and Offline](https://www.youtube.com/watch?v=MfHsPGQ6bgE)
 - `@Query` annotation containing whole query in it's pure form
 - You create the whole interface `@Dao` with annotated methods similar to retrofit
 - `@Dao` maps queries to `@Entity` annotated classes
@@ -85,7 +85,7 @@ dependent components like `ViewModel`
 - Migrations: you can `.addMigrations()` in you database builder
 - Room provides testing migration `android.arch.presistence.room.testing:1.0`
 
-#### [Whats New in Android Development Tools]()
+#### [Whats New in Android Development Tools](https://www.youtube.com/watch?v=Hx_rwS1NTiI)
 - Android Studio 3.0
 ###### Editor
 - Parameter hints
@@ -129,7 +129,7 @@ with all the objects in it with preview of bitmap etc and where the objects came
 
 
 
-#### [Whats New in Android Support Library]()
+#### [Whats New in Android Support Library](https://www.youtube.com/watch?v=V6-roIeNUY0)
 - Move support to minimal API Level 14 so Gingerbread and Honeycomb are dead
 - Many deprecated old methods related to old API and method limit dropped significantly
 - Google maven repository
@@ -154,7 +154,7 @@ are no longer allowed during FragmentManager state changes
 - `FrameMetricsAggregator`
 - `ActionBarDrawerToggle` finally it is simple to disable toggle animation
 
-#### [Background Check and Other Insights into the Android Operating System Framework](https://www.youtube.com/watch?v=hbLAzwhBjFE&list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy&index=19)
+#### [Background Check and Other Insights into the Android Operating System Framework](https://www.youtube.com/watch?v=hbLAzwhBjFE&list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy)
 TODO
 
 #### [Whats Possible with Cloud Functions for Firebase](https://www.youtube.com/watch?v=G-MBeEW92v4)
