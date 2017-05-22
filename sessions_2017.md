@@ -11,7 +11,7 @@ and I cover mostly technical bits, not so much the "philosophical bit"
 Just the basic summary of everything new in android
 
 #### [What’s new in firebase?](https://www.youtube.com/watch?v=m7a26ymUu2U&list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy&index=4)
-- New view for firebase analytics
+- New view for firebase analytics TODO
 
 #### [New Release & Device Targeting Tools](https://www.youtube.com/watch?v=peCWuCSIv7U)
 - New device selection screen. More filters, more devices everything is just awesome
@@ -155,5 +155,7 @@ are no longer allowed during FragmentManager state changes
 - `ActionBarDrawerToggle` finally it is simple to disable toggle animation
 
 #### [Background Check and Other Insights into the Android Operating System Framework](https://www.youtube.com/watch?v=hbLAzwhBjFE&list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy&index=19)
+TODO
 
-#### [Whats Possible with Cloud Functions for Firebase]()
+#### [Whats Possible with Cloud Functions for Firebase](https://www.youtube.com/watch?v=G-MBeEW92v4)
+No new material just a nice complex example of cloud function TODO
