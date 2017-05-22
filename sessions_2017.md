@@ -1,7 +1,7 @@
 # Quick notes from Google IO
-Quick summary from every session I watched
+Quick summary from every session I watched.
 I try to cover just the new stuff not the recapitulation parts of every session
-and I cover mostly technical bits, not so much the "philosophical bit"
+and I cover mostly technical bits, not so much the "philosophical" parts
 
 [All sessions from Google I/O](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy)
 
