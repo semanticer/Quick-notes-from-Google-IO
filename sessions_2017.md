@@ -159,3 +159,22 @@ TODO
 
 #### [Whats Possible with Cloud Functions for Firebase](https://www.youtube.com/watch?v=G-MBeEW92v4)
 No new material just a nice complex example of cloud function TODO
+
+#### [Introduction to Kotlin](https://www.youtube.com/watch?v=X1RVYt2QKQE&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp)
+- Data classes are awesome, they generate
+- Strong type infference
+- Equals functionality
+- Interoop with java
+- String interpolation
+- Default params
+- Naming params
+- "I love when people crap"
+- When statement
+- Extension functions on `BigDecimal` example
+- Infix extension functions for functions with one param
+- Extension property on Int to create `BigDecimal` literal
+- Overloading operators
+- null safety
+- high order functions
+- TODO
+
