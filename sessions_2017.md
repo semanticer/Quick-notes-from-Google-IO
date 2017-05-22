@@ -164,7 +164,7 @@ No new material just a nice complex example of cloud function TODO
 - Data classes are awesome, they generate
 - Strong type infference
 - Equals functionality
-- Interoop with java
+- Interop with java
 - String interpolation
 - Default params
 - Naming params
@@ -174,7 +174,16 @@ No new material just a nice complex example of cloud function TODO
 - Infix extension functions for functions with one param
 - Extension property on Int to create `BigDecimal` literal
 - Overloading operators
-- null safety
-- high order functions
-- TODO
+- Null safety
+- High order functions
+- When last parameter is an function you can have it outside of parameter brackets and it looks like currying or some DSL
+- Extension high order functions on generic collections lika `map`, `filter` or `sort`
+- Data class destruction
+- Algebraic data type using sealed classes
+- Smart cast example in when statement
+- Sequences, lazy evaluation `asSequence()`
+- Kotlin can now compile to javascript
+- Kotlin native in preview version
+- Coroutines for writing asynchronous code the way you write synchronous code
+
 
