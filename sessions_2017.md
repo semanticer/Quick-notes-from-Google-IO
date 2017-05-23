@@ -177,7 +177,7 @@ No new material just a nice complex example of cloud function TODO
 - Null safety
 - High order functions
 - When last parameter is an function you can have it outside of parameter brackets and it looks like currying or some DSL
-- Extension high order functions on generic collections lika `map`, `filter` or `sort`
+- Extension high order functions on generic collections like `map`, `filter` or `sort`
 - Data class destruction
 - Algebraic data type using sealed classes
 - Smart cast example in when statement
