@@ -187,3 +187,21 @@ No new material just a nice complex example of cloud function TODO
 - Coroutines for writing asynchronous code the way you write synchronous code
 
 
+#### [Life is Great and Everything Will Be Ok, Kotlin is Here](https://www.youtube.com/watch?v=fPzxfeDJDzY)
+- `Bundle` nullability is in type in kotlin (if there is `@Nullable` annotation
+- Bean like fields with setters and getters are properties in kotlin
+- Example of useful usage of extension methods in case of `ViewGroup`
+- `ViewGroup` can be extended to gain list-like methods
+- You can even add operators to have super simple manipulation
+- Make sure your functions are inline to reduce overhead
+- Extend view group to provide iterator to make use of all kotlin high order functions
+- You can even add extension properties like `size`
+- Use high order functions and extension functions to encapsulate complexity
+- Lambdas with receivers (lambdas with extensions) to create DSL-like constructs
+- Property delegation with `by lazy`
+- `by Deleate.notNull` you can define vals that have value later
+- Sealed classes usage on example with `RecyclerView`
+
+- Share your enthusiasm about kotlin with the world
+- Convince your management that kotlin is the way to get less buggy app, faster iteration etc
+- Work with your team, discuss a create guidelines for new people on the team
