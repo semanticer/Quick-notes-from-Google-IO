@@ -187,3 +187,44 @@ No new material just a nice complex example of cloud function TODO
 - Coroutines for writing asynchronous code the way you write synchronous code
 
 
+
+
+
+#### [What's New in Android Design Tools - New Features for Rapid UI Development](https://youtu.be/nYb4FUdlLZE)
+- Full designer view in preview view
+- [Community website](http://www.constraintlayout.com)
+- `ConstraintLayout` 1.1.0 Beta released
+- Barriers - similar to keylines but with some differences for other usecase
+- Group - add views to group and you can se for example visibility of that group
+- Slices of data in layout editor for easier property changes
+- Sample data referencing @tools. Predefined sample data like `full_names` or `us_phones` or your custom sample data
+useful in `RecyclerView` previews
+- Placeholder - you can now set a placeholder and set its content id  with combination of TransitionManager and create automatic
+animations
+- You can create placeholder screens and fill them with data later so you can create template screens with placeholders
+and fill them up later for different use cases 
+- With constraint sets you can separate views from how we layout them
+- You can use constraint sets to have lighter orientation change, just have one constraint sets for portrait and one for
+landscape and set them on change
+- You can create cool animations with constraint sets if you thing about them as keyframes and with use of 
+`TransitionManger.beginDelayedTransition`
+- You can connect all of this with new physical animations
+
+#### [Test-Driven Development on Android with the Android Testing Support Library](https://youtu.be/pK7W5npkhho)
+- Write tests man!
+- Example of TDD
+- Unit tests: Set conditions for test -> exercise -> make assertions
+- Robolectric provides alternate implementation of android components
+- You can config individual test to run on specific versions of android or all of them
+- Android test orchestrator - runs each test in single instrumentation invocation
+- Isolate screen tests with espresso intents
+- Create more isolated tests
+- Multiprocess Expresso support
+
+#### [Android Fireside Chat](https://youtu.be/NSZ7iadGaa8)
+- Explanation of project Treble
+- Thinking behind new restrictions on Broadcast Receivers 
+- Battery profiling in the future maybe
+- No plans to write android libs and APIs in kotlin but they want to ensure that is's good for consumption in kotlin
+- They may solve problem with huge string resources for apps that have like 50 language translations in the future
+- Valley is not that recommended anymore, use Retrofit and Glide for images
